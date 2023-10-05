@@ -1,8 +1,7 @@
-<!-- [![MasterHead](https://www.freeimages.com/photo/digital-dreams-1155914)] -->
-<h1 align="center">Hi 👋, I'm Sumit</h1>
+<!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)-->
 
-<!--<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" alt="ssumit09" /> </p>-->
-<iframe align="right" src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **C++ , HTML**
