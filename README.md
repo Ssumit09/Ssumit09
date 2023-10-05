@@ -1,8 +1,7 @@
-[![MasterHead](https://www.google.com/search?q=masterhead++for+coder&tbm=isch&ved=2ahUKEwi9poOLsd-BAxVKSmwGHWEeDhkQ2-cCegQIABAA&oq=masterhead++for+coder&gs_lcp=CgNpbWcQAzoECCMQJ1D6BVjcEWCcFmgAcAB4AYABhAOIAY4PkgEHMC42LjIuMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=yuseZb2ZF8qUseMP4by4yAE&bih=695&biw=1536&rlz=1C1CHBF_enIN1053IN1053#imgrc=kPL1LgZ6YKsCDM)]
+[![MasterHead](https://www.freeimages.com/photo/digital-dreams-1155914)]
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding+image+gif&sca_esv=571003301&rlz=1C1CHBF_enIN1053IN1053&tbm=isch&sxsrf=AM9HkKkt-YcJbZt-9Lu1oUoopw-r6fpKvA:1696525055947&source=lnms&sa=X&sqi=2&ved=2ahUKEwjOo7-qsN-BAxWBamwGHT2bDfMQ_AUoAXoECAEQAw&biw=1536&bih=695&dpr=1.25#imgrc=dbrfb5dvHO4gVM">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssumit09&label=Profile%20views&color=0e75b6&style=flat" alt="ssumit09" /> </p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" alt="ssumit09" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
