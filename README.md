@@ -1,8 +1,8 @@
-[![MasterHead](https://www.freeimages.com/photo/digital-dreams-1155914)]
+<!-- [![MasterHead](https://www.freeimages.com/photo/digital-dreams-1155914)] -->
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" alt="ssumit09" /> </p>
-
+<!--<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" alt="ssumit09" /> </p>-->
+<iframe align="right" src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **C++ , HTML**
